@@ -1,2 +1,4 @@
 */*.zip
+*/secret/
 */*/*.zip
+*/*/secret/
