@@ -1,3 +1,4 @@
+/* Purpose: String manipulation practice, part II (Turkish). */
 #include <stdio.h>
 #include <string.h>
 int main(){

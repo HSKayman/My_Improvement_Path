@@ -1,3 +1,4 @@
+# Purpose: Build and order parallel-coordinate matrix plots from normalized multivariate data.
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import pandas as pd

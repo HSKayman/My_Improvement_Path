@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 6: Sum square difference. */
 #include<stdio.h>
 int main(){
 	int top=0;

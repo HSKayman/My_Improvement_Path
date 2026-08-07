@@ -1,3 +1,4 @@
+/* Purpose: Console race / info-entry style practice program (Turkish). */
 #include <stdio.h>
 #include <string.h>
 int main(){

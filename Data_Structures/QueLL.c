@@ -1,3 +1,4 @@
+/* Purpose: Queue implemented with a linked list. */
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct n{

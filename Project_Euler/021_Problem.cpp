@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 21: Amicable numbers. */
 #include<stdio.h>
 int main()
 {

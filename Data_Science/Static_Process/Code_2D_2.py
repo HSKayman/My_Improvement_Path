@@ -1,3 +1,4 @@
+# Purpose: Two-dimensional statistical analysis and plotting for a pair of CSV columns.
 import numpy as np
 import pandas as pd
 import pprint

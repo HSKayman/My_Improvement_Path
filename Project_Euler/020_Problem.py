@@ -1,3 +1,4 @@
+# Purpose: Project Euler problem 20: Factorial digit sum.
 c=1
 s=1
 while(s<=100):

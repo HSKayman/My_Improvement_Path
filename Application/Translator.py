@@ -1,3 +1,4 @@
+# Purpose: Extract text from a PDF and write a Turkish-oriented sentence-split translation helper file.
 from nltk.tokenize import sent_tokenize
 import argparse
 import pdftotext

@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 37: Truncatable primes. */
 #include<stdio.h>
 #include<math.h>
 int hm(int x);

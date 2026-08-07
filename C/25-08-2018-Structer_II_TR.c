@@ -1,3 +1,4 @@
+/* Purpose: Struct practice, part II (Turkish). */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

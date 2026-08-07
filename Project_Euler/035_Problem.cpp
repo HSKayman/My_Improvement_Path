@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 35: Circular primes. */
 #include<stdio.h>
 #include<math.h>
 // 1 2 3 4 1 2 3 4

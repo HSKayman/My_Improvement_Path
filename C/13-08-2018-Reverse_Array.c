@@ -1,3 +1,4 @@
+/* Purpose: Reverse the elements of an array. */
 #include<stdio.h>
 int main(){
 	int a[]={2,3,9,8,15};

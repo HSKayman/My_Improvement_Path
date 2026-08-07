@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 50: Consecutive prime sum. */
 #include<stdio.h>
 #include<math.h>
 int primer(int x);

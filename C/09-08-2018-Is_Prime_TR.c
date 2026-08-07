@@ -1,3 +1,4 @@
+/* Purpose: Test whether an integer is prime (Turkish prompts). */
 #include<stdio.h>
 int main(){
 int a=2,r;

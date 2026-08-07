@@ -1,3 +1,4 @@
+/* Purpose: Compute employee salaries (Turkish). */
 #include<stdio.h>
 int main(){
 	printf("Lutfen sirket sayisini giriniz :"); int s; scanf("%d",&s);

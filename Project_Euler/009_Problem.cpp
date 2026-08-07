@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 9: Special Pythagorean triplet. */
 #include <stdio.h>
 #include<math.h>
 int main(){

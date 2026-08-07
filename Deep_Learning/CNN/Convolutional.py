@@ -1,3 +1,4 @@
+# Purpose: NumPy implementations of convolution / pooling forward (and related) CNN ops.
 import numpy as np
 
 # =============================================================================

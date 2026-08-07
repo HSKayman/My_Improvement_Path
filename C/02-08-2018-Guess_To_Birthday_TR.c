@@ -1,3 +1,4 @@
+/* Purpose: Birthday / date guessing style interactive console exercise (Turkish). */
 #include<stdio.h>
 int main (){
 	int k;

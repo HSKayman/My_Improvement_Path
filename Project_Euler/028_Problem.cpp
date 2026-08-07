@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 28: Number spiral diagonals. */
 #include<stdio.h>
 #include<cstdlib>
 #define P 1002

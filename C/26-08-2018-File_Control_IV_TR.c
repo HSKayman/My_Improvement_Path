@@ -1,3 +1,4 @@
+/* Purpose: File I/O practice, part IV (Turkish). */
 #include<stdio.h>
 int main(){
 	FILE *file1;

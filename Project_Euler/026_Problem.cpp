@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 26: Reciprocal cycles. */
 #include<stdio.h>
 #include<math.h>
 int primer(int x);

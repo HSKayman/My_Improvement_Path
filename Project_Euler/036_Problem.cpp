@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 36: Double-base palindromes. */
 #include<stdio.h>
 #include<math.h>
 int binary(int x);

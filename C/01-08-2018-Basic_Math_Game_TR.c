@@ -1,3 +1,4 @@
+/* Purpose: Interactive Turkish console math / mind-reading style number game. */
 #include<stdio.h>
 int main(){
 printf("Merhabalar \t \t (ilerlemek icin entera basiniz.)");

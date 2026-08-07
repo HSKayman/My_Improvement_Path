@@ -1,3 +1,4 @@
+/* Purpose: Demonstrate basic arithmetic operators in C. */
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>

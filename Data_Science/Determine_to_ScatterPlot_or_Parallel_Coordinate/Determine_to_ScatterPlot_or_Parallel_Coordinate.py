@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Purpose: Decide between scatter-plot matrix and parallel coordinates using correlation and outlier metrics.
 """
 Created on Fri Jan 24 12:59:47 2020
 

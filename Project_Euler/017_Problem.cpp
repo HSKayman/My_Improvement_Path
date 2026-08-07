@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 17: Number letter counts. */
 #include<stdio.h>
 int main(){int say=0;
 	int f[1001][1]={0};

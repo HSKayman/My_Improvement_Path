@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 52: Permuted multiples. */
 #include<stdio.h>
 #include<math.h>
 int isMir(int x);

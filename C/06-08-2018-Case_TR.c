@@ -1,3 +1,4 @@
+/* Purpose: switch/case branching practice (Turkish). */
 #include<stdio.h>
 int main(){
 	cb: ;

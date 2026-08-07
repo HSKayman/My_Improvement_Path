@@ -1,3 +1,4 @@
+/* Purpose: Compute the mean of entered numbers (Turkish). */
 #include<stdio.h>
 #include<math.h>
 int main(){

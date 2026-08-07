@@ -1,3 +1,4 @@
+/* Purpose: City-related matrix / table exercise (Turkish). */
 #include<stdio.h>
 int main(){
 	int a;

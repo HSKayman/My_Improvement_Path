@@ -1,3 +1,4 @@
+/* Purpose: Basic C string manipulation practice (Turkish). */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

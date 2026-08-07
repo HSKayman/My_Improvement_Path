@@ -1,3 +1,4 @@
+/* Purpose: Queue data structure exercise (array or linked implementation). */
 #include<stdio.h>
 #include<stdlib.h>
 #include"queue_arr.h"

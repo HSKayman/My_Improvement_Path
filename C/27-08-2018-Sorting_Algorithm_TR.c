@@ -1,3 +1,4 @@
+/* Purpose: General sorting-algorithm practice (Turkish). */
 #include<stdio.h>
 int main(){
 	int a[]={5,7,2,9,6,1,3,7};

@@ -1,3 +1,4 @@
+/* Purpose: Data structures lesson VY5: pointer/linked-structure practice. */
 #include<stdio.h>
 #include<stdlib.h>
 

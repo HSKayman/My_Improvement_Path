@@ -1,3 +1,4 @@
+/* Purpose: Swap values using pointers or temps (Turkish). */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,3 +1,4 @@
+/* Purpose: Compute employee pay from inputs (Turkish). */
 #include<stdio.h>
 int main(){
 	int m, u;

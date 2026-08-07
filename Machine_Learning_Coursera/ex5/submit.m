@@ -1,3 +1,4 @@
+% Purpose: Coursera submission entrypoint for Machine Learning ex5.
 function submit()
   addpath('./lib');
 

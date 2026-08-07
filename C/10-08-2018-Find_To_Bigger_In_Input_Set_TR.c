@@ -1,3 +1,4 @@
+/* Purpose: Find the maximum value in a set of inputs (Turkish). */
 #include<stdio.h>
 int main(){
 	int a=0,b=0,c=0;

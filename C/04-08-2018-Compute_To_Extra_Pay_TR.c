@@ -1,3 +1,4 @@
+/* Purpose: Compute overtime / extra pay from inputs (Turkish). */
 #include<stdio.h>
 int main(){
 	printf("Lutfen Yaptiginiz Mesai Saatini giriniz:");

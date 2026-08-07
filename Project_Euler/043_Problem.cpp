@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 43: Sub-string divisibility. */
 #include<stdio.h>
 #include<math.h>
 int isPan(int x,int y,int z);

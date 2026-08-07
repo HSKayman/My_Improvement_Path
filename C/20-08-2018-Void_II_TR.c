@@ -1,3 +1,4 @@
+/* Purpose: void functions practice, part II (Turkish). */
 #include<stdio.h>
 void mark(int vize,int final){ 
 

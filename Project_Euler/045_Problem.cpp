@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 45: Triangular, pentagonal, and hexagonal. */
 #include<stdio.h>
 #define Q 80000 
 int main(){

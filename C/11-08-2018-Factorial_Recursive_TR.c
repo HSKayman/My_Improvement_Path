@@ -1,3 +1,4 @@
+/* Purpose: Compute factorial recursively (Turkish). */
 #include<stdio.h>
 int f(int);
 int main(){

@@ -1,3 +1,4 @@
+# Purpose: Scrape Turkish feature films from IMDb search pages into a structured table.
 from bs4 import BeautifulSoup
 from requests import get
 import pandas as pd

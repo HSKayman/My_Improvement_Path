@@ -1,3 +1,4 @@
+/* Purpose: File I/O practice, part II (Turkish). */
 #include <stdio.h>
 int main(){
 	FILE *islem;

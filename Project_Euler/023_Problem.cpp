@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 23: Non-abundant sums. */
 #include<stdio.h>
 int main(){
 	int i,j,sum=0,a[30000]={0},k=0,l,c=0,levye=0;

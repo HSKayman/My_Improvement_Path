@@ -1,3 +1,4 @@
+/* Purpose: Substring / string-splitting practice (Turkish). */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

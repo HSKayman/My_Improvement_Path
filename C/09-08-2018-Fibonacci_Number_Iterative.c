@@ -1,3 +1,4 @@
+/* Purpose: Compute Fibonacci numbers iteratively. */
 #include<stdio.h>
 int main(){
 	int a;

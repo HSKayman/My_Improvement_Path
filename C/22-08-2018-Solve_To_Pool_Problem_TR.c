@@ -1,3 +1,4 @@
+/* Purpose: Solve a pool / volume word problem in C (Turkish). */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

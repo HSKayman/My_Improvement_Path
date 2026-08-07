@@ -1,3 +1,4 @@
+/* Purpose: Sum all even numbers in a range (Turkish). */
 int main(){
 	int a,b,c,d=0;
 	printf("Lutfen iki sayi giriniz :"); scanf("%d%d",&a,&b);

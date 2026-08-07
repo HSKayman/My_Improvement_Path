@@ -1,3 +1,4 @@
+/* Purpose: Queue data structure exercise using a linked list. */
 #include<stdio.h>
 #include<stdlib.h>
 #include"queu_ll.h"

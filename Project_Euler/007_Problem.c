@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 7: 10001st prime. */
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>

@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 31: Coin sums. */
 #include<stdio.h>
 int main(){
 	int coun=0,i,j,k,l,m,n,o;

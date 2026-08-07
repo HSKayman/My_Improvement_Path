@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 32: Pandigital products. */
 #include<stdio.h>
 #include<math.h>
 int hersey(int x,int y);

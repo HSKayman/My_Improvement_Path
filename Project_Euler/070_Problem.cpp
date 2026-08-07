@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 70: Totient permutation. */
 #include<stdio.h>
 #include<math.h>
 int hm(int x,int y);

@@ -1,3 +1,4 @@
+# Purpose: Tokenize IMDb genre fields and split the scraped list into per-genre CSV files.
 import pandas as pd
 import numpy as np
 from nltk.tokenize import RegexpTokenizer

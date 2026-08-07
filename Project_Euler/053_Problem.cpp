@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 53: Combinatoric selections. */
 #include<stdio.h>
 int main(){
 	int j,i,x,a[101][101]={0};

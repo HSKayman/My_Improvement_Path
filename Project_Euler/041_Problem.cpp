@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 41: Pandigital prime. */
 #include<stdio.h>
 #include<math.h>
 int prime(unsigned long long x);

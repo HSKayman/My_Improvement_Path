@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Purpose: Plotting helpers for PCP vs scatter-plot matrix figures on larger datasets.
 """
 Created on Sat Feb  1 01:14:51 2020
 

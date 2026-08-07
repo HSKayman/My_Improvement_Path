@@ -1,3 +1,4 @@
+/* Purpose: Basic file open/read/write practice. */
 #include<stdio.h>
 int main(){
 	FILE *outfile,*infile;

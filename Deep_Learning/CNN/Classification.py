@@ -1,3 +1,4 @@
+# Purpose: NumPy helpers for activations and backprop used by the CNN classification stack.
 import numpy as np
 
 def sigmoid(Z):

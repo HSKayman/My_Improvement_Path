@@ -1,3 +1,4 @@
+/* Purpose: Reverse a string in place / via buffers (Turkish). */
 #include<stdio.h>
 #include<stdio.h>
 int main(){

@@ -1,3 +1,4 @@
+/* Purpose: Introductory C functions practice (Turkish). */
 #include<stdio.h>
 int f(int);
 int c(int,int);

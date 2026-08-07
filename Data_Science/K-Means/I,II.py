@@ -1,3 +1,4 @@
+# Purpose: K-means clustering notebook-style script (variant I/II).
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np

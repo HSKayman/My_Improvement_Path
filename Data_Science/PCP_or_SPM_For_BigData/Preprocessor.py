@@ -1,3 +1,4 @@
+# Purpose: Preprocess tabular data before PCP/SPM metric evaluation and plotting.
 # =============================================================================
 # importing relevant libraries
 # =============================================================================

@@ -1,3 +1,4 @@
+# Purpose: Train/apply Word2Vec-style document embeddings on preprocessed text.
 import pandas as pd
 import numpy as np
 from gensim.parsing.preprocessing import STOPWORDS, stem

@@ -1,3 +1,4 @@
+/* Purpose: Sum of squares over a numeric range. */
 #include<stdio.h>
 int k(int);
 int main(){

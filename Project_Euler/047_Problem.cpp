@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 47: Distinct primes factors. */
 #include<stdio.h>
 #include<math.h>
 #define Q 50000

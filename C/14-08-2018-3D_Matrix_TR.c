@@ -1,3 +1,4 @@
+/* Purpose: Work with a 3D matrix / array (Turkish). */
 #include<stdio.h>
 int main(){
 	int school[2][2][5];

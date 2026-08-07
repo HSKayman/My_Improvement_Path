@@ -1,3 +1,4 @@
+/* Purpose: Simple console calculator with Turkish prompts. */
 #include<stdio.h>
 int main(){
 

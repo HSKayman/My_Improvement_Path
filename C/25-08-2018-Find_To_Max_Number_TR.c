@@ -1,3 +1,4 @@
+/* Purpose: Find the maximum among numbers (Turkish). */
 #include <stdio.h>
 int max(int *a,int lenght){
 	int maks=a[0];

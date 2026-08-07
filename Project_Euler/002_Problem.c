@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 2: Even Fibonacci numbers. */
 #include<stdio.h>
 long long fib(unsigned a);
 int main(){

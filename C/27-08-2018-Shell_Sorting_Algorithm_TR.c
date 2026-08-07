@@ -1,3 +1,4 @@
+/* Purpose: Shell-sort algorithm practice (Turkish). */
 #include<stdio.h>
 void shell_sort (int *p,int size){
 	int i,j,k,l;

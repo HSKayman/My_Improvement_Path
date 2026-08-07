@@ -1,3 +1,4 @@
+/* Purpose: Driver/test program for queue exercises (VY9). */
 #include<stdio.h>
 #include<stdlib.h>
 #include"queue_arr.h"

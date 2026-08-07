@@ -1,3 +1,4 @@
+/* Purpose: Simple username/password login practice (Turkish). */
 #include <stdio.h>
 #include <string.h>
 int main(){

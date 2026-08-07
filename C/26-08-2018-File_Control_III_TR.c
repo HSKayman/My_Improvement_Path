@@ -1,3 +1,4 @@
+/* Purpose: File I/O practice, part III (Turkish). */
 #include <stdio.h>
 int main(){
 	char isim[20],okul[20],bolum[50];

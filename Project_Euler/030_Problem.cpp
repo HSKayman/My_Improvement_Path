@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 30: Digit fifth powers. */
 #include<stdio.h>
 int power(int x,int y);
 

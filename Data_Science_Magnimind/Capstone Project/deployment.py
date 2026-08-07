@@ -1,3 +1,4 @@
+# Purpose: Streamlit app that loads a trained model to predict loan default from user inputs.
 import streamlit as st
 import pickle
 import pandas as pd

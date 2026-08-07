@@ -1,3 +1,4 @@
+/* Purpose: Radix-sort algorithm practice (Turkish). */
 #include<stdio.h>
 #include<stdlib.h>
 

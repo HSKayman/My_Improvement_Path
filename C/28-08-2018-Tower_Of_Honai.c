@@ -1,3 +1,4 @@
+/* Purpose: Tower of Hanoi recursive puzzle solution. */
 #include<stdio.h>
 void H(int a,char b,char d,char c);
 int count=1;

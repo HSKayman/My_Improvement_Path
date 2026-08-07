@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 58: Spiral primes. */
 #include<stdio.h>
 #include<math.h>
 int prime(int x); 

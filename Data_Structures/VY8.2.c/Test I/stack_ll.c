@@ -1,3 +1,4 @@
+/* Purpose: Stack data structure exercise using a linked list. */
 #include<stdio.h>
 #include<stdlib.h>
 #include"stack_ll.h"

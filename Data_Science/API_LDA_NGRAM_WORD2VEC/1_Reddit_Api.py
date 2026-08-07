@@ -1,3 +1,4 @@
+# Purpose: Authenticate with Reddit via PRAW and pull post data for later NLP analysis.
 import praw
 import pandas as pd
 import datetime as dt

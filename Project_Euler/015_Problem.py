@@ -1,3 +1,4 @@
+# Purpose: Project Euler problem 15: Lattice paths.
 sum1=1
 sum2=1
 for i in range(1,41):

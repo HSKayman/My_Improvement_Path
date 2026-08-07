@@ -1,3 +1,4 @@
+/* Purpose: Array and matrix basics practice (Turkish). */
 #include <stdio.h>
 int main(){
 	int a[10];

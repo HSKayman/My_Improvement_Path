@@ -1,3 +1,4 @@
+/* Purpose: Print Pascal's triangle (Turkish prompts). */
 #include<stdio.h>
 int com(int,int);
 int fac(int);

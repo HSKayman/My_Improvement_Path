@@ -1,3 +1,4 @@
+/* Purpose: C functions practice, part III (Turkish). */
 #include<stdio.h>
 int f(int x){
 printf("%d",x);

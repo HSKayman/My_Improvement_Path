@@ -1,3 +1,4 @@
+/* Purpose: Data structures lesson VY10: struct and memory practice. */
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct n{

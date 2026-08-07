@@ -1,3 +1,4 @@
+# Purpose: Brute-force combinatorics exploring lottery / covering-design style number sets.
 #https://nerdland.net/the-lottery-problem/
 #https://yalansavar.org/2016/03/31/bu-tesaduf-olamaz/
 '''

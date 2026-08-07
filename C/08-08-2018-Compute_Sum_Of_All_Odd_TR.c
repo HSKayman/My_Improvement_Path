@@ -1,3 +1,4 @@
+/* Purpose: Sum all odd numbers in a range (Turkish). */
 #include<stdio.h>
 int main(){
 	int s1,s2,i,c=0,d=0,a,b;

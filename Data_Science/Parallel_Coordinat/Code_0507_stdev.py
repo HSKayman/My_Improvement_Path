@@ -1,3 +1,4 @@
+# Purpose: Parallel-coordinates plotting with standard-deviation scaling and axis-order search.
 # =============================================================================
 # importing relevant libraries
 # =============================================================================

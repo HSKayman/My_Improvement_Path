@@ -1,3 +1,4 @@
+/* Purpose: General array processing practice (Turkish). */
 #include<stdio.h>
 int main(){
 	printf("Dizinin Eleman Sayisi :"); int f; scanf("%d",&f);

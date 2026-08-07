@@ -1,3 +1,4 @@
+/* Purpose: Check or find Armstrong (narcissistic) numbers. */
 #include<stdio.h>
 int power(int x,int y);
 	int main(){ 

@@ -1,3 +1,4 @@
+/* Purpose: Small e-school / student records console exercise (Turkish). */
 #include<stdio.h>
 int main(){
 	int a,i,top=0,e=0,k=100,j,s,s2;

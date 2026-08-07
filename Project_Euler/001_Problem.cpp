@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 1: Multiples of 3 or 5. */
 #include<stdio.h>
 int main(){
 	int sum1=0;

@@ -1,3 +1,4 @@
+/* Purpose: Introductory if-statement branching practice (Turkish). */
 #include<stdio.h>
 int main(){
 	printf("Lutfen Ekrana farkli 3 sayi giriniz:");

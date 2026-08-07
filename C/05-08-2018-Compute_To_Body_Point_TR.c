@@ -1,3 +1,4 @@
+/* Purpose: Body-mass / body-point calculation exercise (Turkish). */
 #include<stdio.h>
 int main(){
 	

@@ -1,3 +1,4 @@
+# Purpose: Parallel-coordinates plotting with min-max scaling and axis-order search.
 # =============================================================================
 # importing relevant libraries
 # =============================================================================

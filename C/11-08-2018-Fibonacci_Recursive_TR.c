@@ -1,3 +1,4 @@
+/* Purpose: Compute Fibonacci numbers recursively (Turkish). */
 #include<stdio.h>
 int fib(int);
 int main(){

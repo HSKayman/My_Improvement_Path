@@ -1,3 +1,4 @@
+/* Purpose: Sum primes below a limit (Turkish). */
 int main(){
 	int a,at=0,i;
 	printf("lutfen bir sayi giriniz"); scanf("%d",&a);

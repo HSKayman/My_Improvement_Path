@@ -1,3 +1,4 @@
+/* Purpose: Binary search on a sorted array (Turkish). */
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>

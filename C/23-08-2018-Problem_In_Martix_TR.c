@@ -1,3 +1,4 @@
+/* Purpose: Matrix problem-solving practice (Turkish). */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 16: Power digit sum. */
 #include<stdio.h>
 int main(){
 	int x[3000]={0};

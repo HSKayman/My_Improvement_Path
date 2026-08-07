@@ -1,3 +1,4 @@
+/* Purpose: Zodiac / horoscope lookup from birth date (Turkish). */
 #include<stdio.h>
 int main(){
 	int a; 	char c;

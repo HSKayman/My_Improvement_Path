@@ -1,3 +1,4 @@
+# Purpose: K-means clustering experiment / visualization on numeric data.
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np

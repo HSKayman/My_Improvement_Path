@@ -1,3 +1,4 @@
+/* Purpose: Compute a course mark / grade from inputs (Turkish). */
 #include<stdio.h>
 int main(){
 	printf("Lutfen Notunuzu giriniz:"); int a; scanf("%d",&a);

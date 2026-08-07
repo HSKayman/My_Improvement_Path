@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 12: Highly divisible triangular number. */
 #include<stdio.h>
 #include<math.h>
 int main(){unsigned long long int i=1,j=1;

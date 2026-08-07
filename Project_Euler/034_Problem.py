@@ -1,3 +1,4 @@
+# Purpose: Project Euler problem 34: Digit factorials.
 def fak(n):
     if n == 0:
         return 1

@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 40: Champernowne's constant. */
 #include<stdio.h>
 #include<math.h>
 int hm(int x);

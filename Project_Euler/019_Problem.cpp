@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 19: Counting Sundays. */
 #include<stdio.h>
 int hm(int x,int y);
 int main(){

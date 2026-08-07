@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 39: Integer right triangles. */
 #include<stdio.h>
 #include<math.h>
 int main(){

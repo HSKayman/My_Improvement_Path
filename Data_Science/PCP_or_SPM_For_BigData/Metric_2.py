@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Purpose: Metric 2 used to score visualization suitability (PCP vs SPM).
 """
 Created on Sat Feb  1 01:39:11 2020
 

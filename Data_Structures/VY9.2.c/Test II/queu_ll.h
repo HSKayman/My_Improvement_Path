@@ -1,3 +1,4 @@
+/* Purpose: Header declaring queue ADT operations and types. */
 #ifndef queu_ll
 #define queu_ll
 typedef struct n{

@@ -1,3 +1,4 @@
+/* Purpose: Sorting algorithms practice on arrays (Turkish). */
 #include<stdio.h>
 int main(){
 		printf("Dizinin Eleman Sayisi :"); int f; scanf("%d",&f);

@@ -1,3 +1,4 @@
+/* Purpose: Generate and work with random numbers (Turkish). */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

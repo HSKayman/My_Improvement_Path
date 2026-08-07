@@ -1,3 +1,4 @@
+# Purpose: Build and count n-gram frequencies from collected document text.
 import pandas as pd
 import numpy as np
 import nltk, re, string, collections

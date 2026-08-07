@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 44: Pentagon numbers. */
 #include<stdio.h>
 #define V 7500
 int main(){

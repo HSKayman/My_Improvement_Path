@@ -1,3 +1,4 @@
+/* Purpose: Numeric computation practice with Turkish console I/O. */
 #include<stdio.h>
 int main(){
 	int a,b;

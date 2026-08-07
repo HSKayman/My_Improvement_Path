@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 42: Coded triangle numbers. */
 #include<stdio.h>
 int main(){
 	FILE *w;

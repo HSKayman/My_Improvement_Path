@@ -1,3 +1,4 @@
+/* Purpose: Compute factorial of an input number (Turkish). */
 #include<stdio.h>
 int main(){
 	int a=0,b=1;

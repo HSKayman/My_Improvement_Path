@@ -1,3 +1,4 @@
+# Purpose: Compute inter-class distances across axis combinations for parallel-coordinate views.
 import itertools
 import pandas as pd
 import matplotlib.pyplot as plt

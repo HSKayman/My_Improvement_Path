@@ -1,3 +1,4 @@
+/* Purpose: Print / draw a matrix pattern to the console (Turkish). */
 #include<stdio.h>
 int main(){
 int a,s,i,j;

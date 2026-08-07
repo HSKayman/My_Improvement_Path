@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 5: Smallest multiple. */
 #include<stdio.h>
 #include<stdbool.h>
 long long unsigned gcd(long long unsigned x,long long unsigned y){

@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 24: Lexicographic permutations. */
 #include<stdio.h>
 #include<math.h>
 int main()

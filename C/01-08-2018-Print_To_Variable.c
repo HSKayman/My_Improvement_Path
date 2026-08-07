@@ -1,3 +1,4 @@
+/* Purpose: Beginner C practice: print values stored in variables. */
 #include <stdio.h>
 int main(){
 	int a = 10;

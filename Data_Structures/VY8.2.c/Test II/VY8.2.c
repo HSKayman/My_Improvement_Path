@@ -1,3 +1,4 @@
+/* Purpose: Driver/test program for stack exercises (VY8.2). */
 #include<stdio.h>
 #include<stdlib.h>
 #include"stack_ll.h"

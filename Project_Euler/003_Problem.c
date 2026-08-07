@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 3: Largest prime factor. */
 #include<stdio.h>
 #include<math.h>
 #include<stdbool.h>

@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 11: Largest product in a grid. */
 #include<stdio.h>
 int main(){
 	FILE *p;

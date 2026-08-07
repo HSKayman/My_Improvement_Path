@@ -1,3 +1,4 @@
+/* Purpose: Practice logical operators with Turkish prompts. */
 #include<stdio.h>
 int main(){
 	int a,b;

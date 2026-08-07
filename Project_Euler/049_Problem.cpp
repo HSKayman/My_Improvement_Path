@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 49: Prime permutations. */
 #include<stdio.h>
 #include<math.h>
 int primer(int x);

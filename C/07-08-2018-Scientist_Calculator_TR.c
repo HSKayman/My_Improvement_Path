@@ -1,3 +1,4 @@
+/* Purpose: Scientific calculator-style operations (Turkish prompts). */
 #include<stdio.h>
 int main(){
 	q34: printf("Dort Islem Icin 1'e Basiniz.\nOzel Matematik Islemi Icin 2'ye Basiniz\n\n:");

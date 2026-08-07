@@ -1,3 +1,4 @@
+/* Purpose: Data structures lesson VY4: pointer/linked-structure practice. */
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct n{

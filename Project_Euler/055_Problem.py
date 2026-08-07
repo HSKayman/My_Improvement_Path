@@ -1,3 +1,4 @@
+# Purpose: Project Euler problem 55: Lychrel numbers.
 def is_ly(x):
     for i in range(50):
         number = x + int(str(x)[::-1])

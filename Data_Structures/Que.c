@@ -1,3 +1,4 @@
+/* Purpose: Queue implemented with a fixed array. */
 #include<stdio.h>
 #include<stdlib.h>
 //Level 5 size a uyumlu normal que

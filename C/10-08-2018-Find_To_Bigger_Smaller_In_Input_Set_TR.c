@@ -1,3 +1,4 @@
+/* Purpose: Find min and max values in a set of inputs (Turkish). */
 #include <stdio.h>
 int main(){
 int a,b=0,c=9999999999;

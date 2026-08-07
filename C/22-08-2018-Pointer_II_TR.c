@@ -1,3 +1,4 @@
+/* Purpose: Pointer practice, part II (Turkish). */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

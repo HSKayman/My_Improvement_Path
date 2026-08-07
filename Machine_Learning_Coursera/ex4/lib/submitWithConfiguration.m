@@ -1,3 +1,4 @@
+% Purpose: Coursera submission helper (JSON/config) for Machine Learning ex4.
 function submitWithConfiguration(conf)
   addpath('./lib/jsonlab');
 

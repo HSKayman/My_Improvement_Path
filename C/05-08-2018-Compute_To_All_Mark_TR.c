@@ -1,3 +1,4 @@
+/* Purpose: Compute aggregate marks for multiple assessments (Turkish). */
 #include<stdio.h>
 int main(){
 	int v,f;

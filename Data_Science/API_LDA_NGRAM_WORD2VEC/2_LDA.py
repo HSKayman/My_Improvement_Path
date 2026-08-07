@@ -1,3 +1,4 @@
+# Purpose: LDA-style topic categorization of Reddit/text corpora with gensim preprocessing.
 import pandas as pd
 import numpy as np
 import gensim

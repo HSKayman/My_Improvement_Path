@@ -1,3 +1,4 @@
+/* Purpose: Search for a value in an array (Turkish). */
 #include<stdio.h>
 int main(){
 	int q[10],a,f=0,i;

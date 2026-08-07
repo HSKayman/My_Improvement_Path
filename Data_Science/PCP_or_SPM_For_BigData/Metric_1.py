@@ -1,3 +1,4 @@
+# Purpose: Metric 1 used to score visualization suitability (PCP vs SPM).
 # =============================================================================
 # importing relevant libraries
 # =============================================================================

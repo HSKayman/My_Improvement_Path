@@ -1,3 +1,4 @@
+# Purpose: Main driver comparing parallel coordinates vs scatter-plot matrix for big data.
 # =============================================================================
 # import relevant libraries
 # =============================================================================

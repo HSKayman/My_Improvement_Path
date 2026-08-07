@@ -1,3 +1,4 @@
+/* Purpose: Compute a right triangle hypotenuse from user input (Turkish prompts). */
 #include<stdio.h>
 #include<math.h>
 int main (){

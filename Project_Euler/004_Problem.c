@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 4: Largest palindrome product. */
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>

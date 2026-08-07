@@ -1,3 +1,4 @@
+/* Purpose: Process marks for all students (Turkish). */
 #include<stdio.h>
 int main(){
 	int o[10],a,AAnotu=0,BBnotu=0,CCnotu=0,DDnotu=0,FFnotu=0,f[10],os[10];

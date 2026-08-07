@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 38: Pandigital multiples. */
 #include<stdio.h>
 #include<math.h>
 int isPan(int x);

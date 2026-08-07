@@ -1,3 +1,4 @@
+/* Purpose: Fill or print a matrix in spiral (snail) order (Turkish). */
 #include<stdio.h>
 int main(){
 	int i,j,b,q,s=1,a[15][15];

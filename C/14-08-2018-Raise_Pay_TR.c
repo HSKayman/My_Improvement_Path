@@ -1,3 +1,4 @@
+/* Purpose: Compute a pay raise from inputs (Turkish). */
 #include <stdio.h>
 
 int main(){

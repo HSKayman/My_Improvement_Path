@@ -1,3 +1,4 @@
+/* Purpose: Compute student grade averages (Turkish). */
 #include <stdio.h>
 int main(){
 	int o[10],a,top,s=0;

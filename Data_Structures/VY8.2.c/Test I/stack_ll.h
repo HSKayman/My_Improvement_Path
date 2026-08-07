@@ -1,3 +1,4 @@
+/* Purpose: Header declaring stack ADT operations and types. */
 #ifndef stack_ll
 #define stack_ll
 typedef struct n{

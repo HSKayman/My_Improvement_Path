@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 14: Longest Collatz sequence. */
 #include<stdio.h>
 int main(){int max=0;
 	for(int i=1;i<=1000000;i++){

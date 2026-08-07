@@ -1,3 +1,4 @@
+# Purpose: Project Euler problem 25: 1000-digit Fibonacci number.
 
 a=1
 b=1

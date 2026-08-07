@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 18: Maximum path sum I. */
 #include<stdio.h>
 int main(){
 	FILE *p;

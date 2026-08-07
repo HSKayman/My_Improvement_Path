@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 33: Digit cancelling fractions. */
 #include<stdio.h>
 int main(){
 	int i,j,k;

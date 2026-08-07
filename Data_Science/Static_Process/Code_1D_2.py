@@ -1,3 +1,4 @@
+# Purpose: One-dimensional statistical profiling of a CSV column (outliers, distributions).
 import numpy as np
 import pandas as pd
 import pprint

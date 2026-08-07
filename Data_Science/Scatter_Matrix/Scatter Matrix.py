@@ -1,3 +1,4 @@
+# Purpose: Order and render a scatter-plot matrix using Pearson correlation ranking.
 # =============================================================================
 # importing relevant libraries
 # =============================================================================

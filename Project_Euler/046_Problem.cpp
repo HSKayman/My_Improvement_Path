@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 46: Goldbach's other conjecture. */
 #include<stdio.h>
 #include<math.h>
 int primer(int x);

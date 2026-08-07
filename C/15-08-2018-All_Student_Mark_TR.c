@@ -1,3 +1,4 @@
+/* Purpose: Process marks for all students (Turkish). */
 #include<stdio.h>
 int main(){
 	printf("\nSinif Sayisi :"); int s,v,f; scanf("%d",&s);

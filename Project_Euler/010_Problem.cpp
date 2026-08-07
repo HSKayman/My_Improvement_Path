@@ -1,3 +1,4 @@
+/* Purpose: Project Euler problem 10: Summation of primes. */
 #include<stdio.h>
 #include<math.h>
 int main(){
